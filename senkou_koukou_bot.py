@@ -25,4 +25,4 @@ async def on_message(message): #メッセージを受け取る関数なので必
         choice = random.choice(select) #randomモジュールでselectリストからランダムに一つを選出
         await message.channel.send(choice) #結果を出力
 # この＊＊＊に自分のトークンを書き替える
-client.run('Njk4ODcwNTYxODY2MTIxMjI4.XpMIzg.mtzeoQZBrCg4fz3F7R2IKwlE39A')
+client.run('Njk4ODcwNTYxODY2MTIxMjI4.XpsPcg.a14QSE_U1KsdR9kkOLTYnv_3RUA')
