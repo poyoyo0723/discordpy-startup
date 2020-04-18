@@ -1,1 +1,1 @@
-discordbot：P
+discordbot：Python senkou_koukou_bot.py
